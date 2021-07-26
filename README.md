@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ## :computer: Python Libraries
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://miro.medium.com/max/481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="Pandas" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://miro.medium.com/max/481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>     
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100"/> </a> 
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="130"/> </a> 
 
 ## :computer: Languages
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
