@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gulfadenakkoc@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://-...-.medium.com)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/gulakkoc?hr_r=1)
-<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="75"/> </a>
+[<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="75"/>] (https://www.kaggle.com/gulakkoc)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulakkoc" alt="Gul" /> </p>
 
 ## :computer: Data Visualization
