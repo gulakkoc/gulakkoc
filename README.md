@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://miro.medium.com/max/962/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="Pandas" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAi2K4sTA5uDPWV6rmwdVDg5swuCMnRPaiwEp9SVRJV9O6-kSGTGE-M5YP37Ie_faPnI&usqp=CAU" alt="Microsoft Power BI" height="50"/> </a>     
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAi2K4sTA5uDPWV6rmwdVDg5swuCMnRPaiwEp9SVRJV9O6-kSGTGE-M5YP37Ie_faPnI&usqp=CAU" alt="Microsoft Power BI" height="50"/> </a>       
 
 ## 💻 Python Libraries
 
